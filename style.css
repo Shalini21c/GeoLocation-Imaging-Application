@@ -1,0 +1,21 @@
+#nav-list a{
+	margin-left: 40px;
+	margin-right: 40px;
+	padding: 6px 8px;
+	color: black;
+	font-size: 18px;
+}
+
+#nav-list a:hover{
+	background-color: #5A9FFF;
+	border-color: #FF8409;
+	color: #FAF6FF;
+	border-radius: 4px;
+}
+
+#nav-list a:focus{
+	background-color: #5A9FFF;
+	border-color: #FF8409;
+	color: #FAF6FF;
+	border-radius: 4px;
+}
